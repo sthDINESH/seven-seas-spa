@@ -1,3 +1,7 @@
+.testimonials-section h2 {
+    font-family: 'Handlee', cursive;
+    color: #3B2F2F;
+}
 .wellness-tips-section .list-group-item {
     border-bottom: none;
 }
