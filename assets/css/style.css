@@ -11,6 +11,16 @@
 }
 /* Main stylesheet for Seven Seas Spa */
 
+.footer-section {
+    background-color: #6f4e37 !important;
+    color: #FFebd4;
+}
+.footer-section .footer-icon,
+.footer-section .footer-icon i {
+    color: #FFebd4 !important;
+}
+}
+
 /* Change navbar font color */
 .navbar-nav .nav-link, .navbar-brand {
     color: #3B2f2f !important;
