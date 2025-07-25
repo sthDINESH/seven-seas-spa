@@ -1,0 +1,7 @@
+/* Main stylesheet for Seven Seas Spa */
+
+/* Change navbar font color */
+.navbar-nav .nav-link, .navbar-brand {
+    color: #3B2f2f !important;
+}
+
